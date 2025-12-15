@@ -6,4 +6,4 @@ Ramón Navarro Salcedo
 ##  Servidor FOG
 Este trabajo se centra en la investigación del proyecto "MIGRACIÓN EN FOG CON SOPORTE UEFI" ya que, en la finalización del mismo, se descubrió que los clientes no eran capaces de desplegar las imágenes correctamente. Por este motivo se ha llevado a cabo una investigación para determinar lo que podría estar causando los fallos y encontrar una solución. No obstante, primero debemos recordar el objetivo y estructura del proyecto original.
 
-[Documentación](https://drive.google.com/file/d/1Hd02gSIhX7vH85qnnKM_BDFmdEg2qaol/view?usp=sharing)
+[Documentación](https://drive.google.com/file/d/1w33DA0Vmnyda-qqHfP2kVeKgCuVcG6rm/view?usp=sharing)
